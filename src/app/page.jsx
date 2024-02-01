@@ -1,7 +1,7 @@
 // import React from 'react'
 
-import Main from "./components/main";
-import Remote from "./components/remote";
+import Main from "./components/Main";
+import Remote from "./components/Remote";
 
 
 export default function Home() {
